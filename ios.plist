@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://134.160.26.77:8099/BAE/RSF/app/apk/ios/hn_PalmScore.ipa</string>
+					<string>http://119.39.227.91:8099/BAE/RSF/app/apk/ios/hn_PalmScore.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://134.160.26.77:8099/BAE/RSF/app/apk/ios/APP_57.png</string>
+					<string>http://119.39.227.91:8099/BAE/RSF/app/apk/ios/APP_57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://134.160.26.77:8099/BAE/RSF/app/apk/ios/APP_512.png</string>
+					<string>http://119.39.227.91:8099/BAE/RSF/app/apk/ios/APP_512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
