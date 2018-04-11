@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bonc.PalmScore.UNICOM.HN.ios8fix</string>
+				<string>com.bonc.PalmScore.UNICOM.HN</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
